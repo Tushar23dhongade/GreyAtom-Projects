@@ -21,6 +21,7 @@
 | Modelling Customer's Feedback on the Product | Our aim is to predict the customer satisfaction. |
 | Segmentation for Retail | To identify different types of customers and then groups of customers exhibiting similar behaviour. |
 | Car insurance Claim | The objective is to know the reason why claim was not made. |
+| Classify the News Articles | The goal is to predict which class a particular resource belongs to given the title of the resource. |
 
 
 
