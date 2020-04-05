@@ -23,6 +23,6 @@
 | Car insurance Claim | The objective is to know the reason why claim was not made. |
 | Classify the News Articles | The goal is to predict which class a particular resource belongs to given the title of the resource. |
 | Human Activity Recognition with Smartphones | The objective is to classify activities into one of the six activities performed.|
-| Topic modelling with news headlines | The main goal of this problem is to leverage the power of techniques like LSA (Latent Semantic Analysis) and LDA (Latent Dirichlet Allocation) to assign topics to unseen news headlines. |
+| Topic modelling with news headlines | The main goal of this problem is to assign topics to unseen news headlines. |
 
 
