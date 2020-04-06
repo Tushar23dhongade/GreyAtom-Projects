@@ -16,9 +16,11 @@ The dataset consists of message column along with the different column associate
 
 We have with us two variations of the same dataset
 
-Train data(40000 rows) [We will train our model on this]
+Train data(40000 rows) 
 
-Test data(10000 rows) [We will validate our model on this]
+Test data(10000 rows) 
 
-<img src="https://storage.googleapis.com/ga-commit-live-prod-live-data/account/b92/11111111-1111-1111-1111-000000000000/b566/984701e4-eb7e-4127-97cb-614776062232/file.PNG" alt="dataset">
+![Image of dataset](https://github.com/shrikantnaidu/GreyAtomProjects/blob/master/Domain%20classification%20of%20customer%20messages/file.PNG)
+
+
 
