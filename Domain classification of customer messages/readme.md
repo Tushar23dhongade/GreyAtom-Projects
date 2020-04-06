@@ -20,7 +20,8 @@ Train data(40000 rows)
 
 Test data(10000 rows) 
 
-![Image of dataset](https://github.com/shrikantnaidu/GreyAtomProjects/blob/master/Domain%20classification%20of%20customer%20messages/file.PNG)
+![file](https://user-images.githubusercontent.com/48250679/78535452-d3b33f80-7809-11ea-8a76-5340ce8f1525.PNG)
+
 
 
 
