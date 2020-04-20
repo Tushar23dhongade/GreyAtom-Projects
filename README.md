@@ -26,4 +26,5 @@
 | Topic modelling with news headlines | The main goal of this problem is to assign topics to unseen news headlines. |
 | Amazon Alexa Reviews | The objective is to classify negative customer sentiment. |
 | Domain classification of customer messages | The goal is to predict which class a particular message belongs to given the title of the domain. |
+| Mutual Fund Returns | The objective of this problem is to predict the ‘basis point spread’ over AAA bonds |
 
